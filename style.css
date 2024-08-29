@@ -1,0 +1,80 @@
+body{
+  background-color: black;
+}
+  h1{
+    color: rgb(39, 216, 216);
+  }
+  button 
+  {
+color:brown ;
+  }
+  div.Lorem
+  {
+    color: yellow;
+    width: 100%px;
+    height: 100%px;
+
+    border-style: groove;
+    padding: 2px;
+    padding-left: 8px;
+    padding-right: 8px;
+border-width: 8px;
+border-color:green red pink ;
+    display: flex;
+    text-emphasis: none;
+    text-align: justify;
+    text-justify: inter-word;
+
+    
+
+    font-size:1cm;
+
+  }
+  .container
+  {
+    width: 100%;
+    height: 350px;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    
+    background: #ddd;
+  
+  }
+  .box 
+  {
+    width: 250px;
+    height: 300px;
+    margin: 0px  10px;
+   
+    
+    box-shadow: 0 0 20px rgba(194, 34, 34, 0.1);   
+  }
+   img
+  {
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+    
+  }
+  
+
+  .box:hover
+  {
+    transform:scale(1.1)
+    
+  }p{
+    
+    margin: 0%;
+    text-align: center;
+    
+
+    justify-content: center;
+    
+  }
+  
+  div#icon
+  {
+    color: aqua;
+  }
